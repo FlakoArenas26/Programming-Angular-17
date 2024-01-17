@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3A9094AA-E318-461D-9172-1148D8138977}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoEnUno/Program.cs">
+    <Files>
+      <File FileName="ProyectoEnUno/Program.cs" Line="32" Column="61" />
+      <File FileName="ProyectoEnUno/Model/Model_Class/Exercise1.cs" Line="24" Column="34" />
+      <File FileName="ProyectoEnUno/Model/Model_Class/Exercise2.cs" Line="55" Column="1" />
+      <File FileName="ProyectoEnUno/Model/Model_Class/Exercise4.cs" Line="21" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoEnUno" expanded="True">
+            <Node name="ProyectoEnUno" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="Model_Class" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProyectoEnUno PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

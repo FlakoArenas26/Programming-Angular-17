@@ -1,0 +1,13 @@
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.exe.config
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.exe
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.pdb
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.csprojAssemblyReference.cache
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.csproj.CoreCompileInputs.cache
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.exe
+C:/Users/asti/source/repos/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.pdb
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.exe.config
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.exe
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/bin/Debug/ProyectoEnUno.pdb
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.csproj.CoreCompileInputs.cache
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.exe
+/Users/desarrollos/Documents/PRUEBA/ProyectoEnUno/ProyectoEnUno/obj/Debug/ProyectoEnUno.pdb
